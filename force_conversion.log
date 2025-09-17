@@ -1,0 +1,682 @@
+2025-09-17 23:20:06,374 - INFO - Starting force conversion...
+2025-09-17 23:20:06,374 - INFO - Mavjud PDF fayllarni ko'chirish...
+2025-09-17 23:20:06,644 - INFO - ✓ Installed python-docx
+2025-09-17 23:20:06,812 - INFO - ✓ Installed openpyxl
+2025-09-17 23:20:06,974 - INFO - ✓ Installed reportlab
+2025-09-17 23:20:07,154 - INFO - ✓ Installed Pillow
+2025-09-17 23:20:07,156 - INFO - Found 1 files to convert
+2025-09-17 23:20:07,156 - INFO - Processing 1/1: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:07,156 - INFO - Trying LibreOffice for Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:07,158 - WARNING - LibreOffice not found, skipping: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:07,158 - INFO - Trying Pandoc for Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:07,160 - WARNING - Pandoc not found, skipping: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:07,160 - ERROR - ✗ All methods failed for: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:07,160 - INFO - 
+Force conversion completed!
+2025-09-17 23:20:07,160 - INFO - Converted: 0
+2025-09-17 23:20:07,160 - INFO - Failed: 1
+2025-09-17 23:20:07,160 - INFO - Total processed: 1
+2025-09-17 23:20:16,853 - INFO - Starting force conversion...
+2025-09-17 23:20:16,853 - INFO - Mavjud PDF fayllarni ko'chirish...
+2025-09-17 23:20:16,856 - INFO - ✓ PDF ko'chirildi: Memo_ How to Succeed at 505-Junk.pdf
+2025-09-17 23:20:16,887 - INFO - ✓ PDF ko'chirildi: JunkStart 505-Junk Brand Strategy.pdf
+2025-09-17 23:20:16,888 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Revenue (Actuals).pdf
+2025-09-17 23:20:16,888 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Budget.pdf
+2025-09-17 23:20:16,889 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Revenue Plan Difference.pdf
+2025-09-17 23:20:16,889 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Truck Team KPIs.pdf
+2025-09-17 23:20:16,890 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Strategic Plan.pdf
+2025-09-17 23:20:16,890 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Revenue (Budget).pdf
+2025-09-17 23:20:16,890 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - DPL.pdf
+2025-09-17 23:20:16,891 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - GSR.pdf
+2025-09-17 23:20:16,891 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Truck Team KPIs.pdf
+2025-09-17 23:20:16,893 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Revenue Difference.pdf
+2025-09-17 23:20:16,894 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - DPL.pdf
+2025-09-17 23:20:16,895 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Budget (Con).pdf
+2025-09-17 23:20:16,897 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Budget (Trending).pdf
+2025-09-17 23:20:16,898 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Revenue (Budget).pdf
+2025-09-17 23:20:16,899 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Strategic Plan.pdf
+2025-09-17 23:20:16,901 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Revenue (Trending).pdf
+2025-09-17 23:20:16,901 - INFO - ✓ 18 ta PDF fayl ko'chirildi
+2025-09-17 23:20:17,073 - INFO - ✓ Installed python-docx
+2025-09-17 23:20:17,232 - INFO - ✓ Installed openpyxl
+2025-09-17 23:20:17,392 - INFO - ✓ Installed reportlab
+2025-09-17 23:20:17,572 - INFO - ✓ Installed Pillow
+2025-09-17 23:20:17,573 - INFO - Found 61 files to convert
+2025-09-17 23:20:17,573 - INFO - Processing 1/61: Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:20:17,573 - INFO - Trying LibreOffice for Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:20:17,576 - WARNING - LibreOffice not found, skipping: Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:20:17,576 - INFO - Trying Pandoc for Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:20:17,578 - WARNING - Pandoc not found, skipping: Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:20:17,578 - INFO - Trying Manual DOCX for Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:20:17,694 - INFO - ✓ Success with Manual DOCX: Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:20:17,694 - INFO - Processing 2/61: Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:17,694 - INFO - Trying LibreOffice for Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:17,696 - WARNING - LibreOffice not found, skipping: Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:17,696 - INFO - Trying Pandoc for Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:17,698 - WARNING - Pandoc not found, skipping: Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:17,698 - INFO - Trying Manual DOCX for Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:17,738 - INFO - ✓ Success with Manual DOCX: Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:17,738 - INFO - Processing 3/61: Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:20:17,738 - INFO - Trying LibreOffice for Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:20:17,741 - WARNING - LibreOffice not found, skipping: Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:20:17,741 - INFO - Trying Pandoc for Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:20:17,743 - WARNING - Pandoc not found, skipping: Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:20:17,743 - INFO - Trying Manual DOCX for Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:20:17,753 - INFO - ✓ Success with Manual DOCX: Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:20:17,753 - INFO - Processing 4/61: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:17,753 - INFO - Trying LibreOffice for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:17,756 - WARNING - LibreOffice not found, skipping: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:17,756 - INFO - Trying Pandoc for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:17,758 - WARNING - Pandoc not found, skipping: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:17,758 - INFO - Trying Manual DOCX for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:17,782 - INFO - ✓ Success with Manual DOCX: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:17,782 - INFO - Processing 5/61: Template_ Development Plan Questionnaire.docx
+2025-09-17 23:20:17,782 - INFO - Trying LibreOffice for Template_ Development Plan Questionnaire.docx
+2025-09-17 23:20:17,785 - WARNING - LibreOffice not found, skipping: Template_ Development Plan Questionnaire.docx
+2025-09-17 23:20:17,785 - INFO - Trying Pandoc for Template_ Development Plan Questionnaire.docx
+2025-09-17 23:20:17,787 - WARNING - Pandoc not found, skipping: Template_ Development Plan Questionnaire.docx
+2025-09-17 23:20:17,787 - INFO - Trying Manual DOCX for Template_ Development Plan Questionnaire.docx
+2025-09-17 23:20:17,804 - INFO - ✓ Success with Manual DOCX: Template_ Development Plan Questionnaire.docx
+2025-09-17 23:20:17,804 - INFO - Processing 6/61: Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:20:17,804 - INFO - Trying LibreOffice for Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:20:17,807 - WARNING - LibreOffice not found, skipping: Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:20:17,807 - INFO - Trying Pandoc for Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:20:17,809 - WARNING - Pandoc not found, skipping: Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:20:17,809 - INFO - Trying Manual DOCX for Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:20:17,820 - INFO - ✓ Success with Manual DOCX: Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:20:17,820 - INFO - Processing 7/61: Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:20:17,821 - INFO - Trying LibreOffice for Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:20:17,823 - WARNING - LibreOffice not found, skipping: Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:20:17,823 - INFO - Trying Pandoc for Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:20:17,826 - WARNING - Pandoc not found, skipping: Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:20:17,826 - INFO - Trying Manual DOCX for Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:20:17,835 - INFO - ✓ Success with Manual DOCX: Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:20:17,836 - INFO - Processing 8/61: Employee Warning Notice - Template (General).docx
+2025-09-17 23:20:17,836 - INFO - Trying LibreOffice for Employee Warning Notice - Template (General).docx
+2025-09-17 23:20:17,839 - WARNING - LibreOffice not found, skipping: Employee Warning Notice - Template (General).docx
+2025-09-17 23:20:17,839 - INFO - Trying Pandoc for Employee Warning Notice - Template (General).docx
+2025-09-17 23:20:17,843 - WARNING - Pandoc not found, skipping: Employee Warning Notice - Template (General).docx
+2025-09-17 23:20:17,843 - INFO - Trying Manual DOCX for Employee Warning Notice - Template (General).docx
+2025-09-17 23:20:17,853 - INFO - ✓ Success with Manual DOCX: Employee Warning Notice - Template (General).docx
+2025-09-17 23:20:17,853 - INFO - Processing 9/61: Employee Write-up - Template (General).docx
+2025-09-17 23:20:17,853 - INFO - Trying LibreOffice for Employee Write-up - Template (General).docx
+2025-09-17 23:20:17,856 - WARNING - LibreOffice not found, skipping: Employee Write-up - Template (General).docx
+2025-09-17 23:20:17,856 - INFO - Trying Pandoc for Employee Write-up - Template (General).docx
+2025-09-17 23:20:17,858 - WARNING - Pandoc not found, skipping: Employee Write-up - Template (General).docx
+2025-09-17 23:20:17,858 - INFO - Trying Manual DOCX for Employee Write-up - Template (General).docx
+2025-09-17 23:20:17,865 - INFO - ✓ Success with Manual DOCX: Employee Write-up - Template (General).docx
+2025-09-17 23:20:17,865 - INFO - Processing 10/61: Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:20:17,865 - INFO - Trying LibreOffice for Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:20:17,868 - WARNING - LibreOffice not found, skipping: Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:20:17,869 - INFO - Trying Pandoc for Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:20:17,872 - WARNING - Pandoc not found, skipping: Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:20:17,872 - INFO - Trying Manual DOCX for Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:20:17,937 - INFO - ✓ Success with Manual DOCX: Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:20:17,937 - INFO - Processing 11/61: Bolt Performance Improvement Plan.docx
+2025-09-17 23:20:17,937 - INFO - Trying LibreOffice for Bolt Performance Improvement Plan.docx
+2025-09-17 23:20:17,940 - WARNING - LibreOffice not found, skipping: Bolt Performance Improvement Plan.docx
+2025-09-17 23:20:17,940 - INFO - Trying Pandoc for Bolt Performance Improvement Plan.docx
+2025-09-17 23:20:17,943 - WARNING - Pandoc not found, skipping: Bolt Performance Improvement Plan.docx
+2025-09-17 23:20:17,943 - INFO - Trying Manual DOCX for Bolt Performance Improvement Plan.docx
+2025-09-17 23:20:17,958 - INFO - ✓ Success with Manual DOCX: Bolt Performance Improvement Plan.docx
+2025-09-17 23:20:17,958 - INFO - Processing 12/61: Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:20:17,958 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:20:17,961 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:20:17,961 - INFO - Trying Pandoc for Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:20:17,965 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:20:17,965 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:20:17,985 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:20:17,985 - INFO - Processing 13/61: Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:20:17,985 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:20:17,989 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:20:17,989 - INFO - Trying Pandoc for Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:20:17,991 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:20:17,992 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:20:18,016 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:20:18,016 - INFO - Processing 14/61: Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:20:18,016 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:20:18,020 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:20:18,020 - INFO - Trying Pandoc for Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:20:18,023 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:20:18,024 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:20:18,052 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:20:18,052 - INFO - Processing 15/61: Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:20:18,052 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:20:18,057 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:20:18,057 - INFO - Trying Pandoc for Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:20:18,060 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:20:18,061 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:20:18,082 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:20:18,082 - INFO - Processing 16/61: Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:20:18,083 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:20:18,086 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:20:18,086 - INFO - Trying Pandoc for Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:20:18,089 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:20:18,089 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:20:18,128 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:20:18,128 - INFO - Processing 17/61: Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:20:18,128 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:20:18,133 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:20:18,133 - INFO - Trying Pandoc for Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:20:18,136 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:20:18,136 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:20:18,164 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:20:18,164 - INFO - Processing 18/61: Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:20:18,164 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:20:18,168 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:20:18,168 - INFO - Trying Pandoc for Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:20:18,171 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:20:18,172 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:20:18,195 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:20:18,195 - INFO - Processing 19/61: Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:20:18,195 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:20:18,199 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:20:18,199 - INFO - Trying Pandoc for Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:20:18,202 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:20:18,202 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:20:18,224 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:20:18,224 - INFO - Processing 20/61: Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:20:18,224 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:20:18,227 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:20:18,227 - INFO - Trying Pandoc for Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:20:18,230 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:20:18,230 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:20:18,251 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:20:18,251 - INFO - Processing 21/61: Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:20:18,251 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:20:18,255 - WARNING - LibreOffice not found, skipping: Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:20:18,255 - INFO - Trying Pandoc for Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:20:18,258 - WARNING - Pandoc not found, skipping: Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:20:18,258 - INFO - Trying Manual DOCX for Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:20:18,271 - INFO - ✓ Success with Manual DOCX: Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:20:18,271 - INFO - Processing 22/61: Competency Model - Truck Team.docx
+2025-09-17 23:20:18,272 - INFO - Trying LibreOffice for Competency Model - Truck Team.docx
+2025-09-17 23:20:18,275 - WARNING - LibreOffice not found, skipping: Competency Model - Truck Team.docx
+2025-09-17 23:20:18,275 - INFO - Trying Pandoc for Competency Model - Truck Team.docx
+2025-09-17 23:20:18,278 - WARNING - Pandoc not found, skipping: Competency Model - Truck Team.docx
+2025-09-17 23:20:18,278 - INFO - Trying Manual DOCX for Competency Model - Truck Team.docx
+2025-09-17 23:20:18,341 - INFO - ✓ Success with Manual DOCX: Competency Model - Truck Team.docx
+2025-09-17 23:20:18,341 - INFO - Processing 23/61: Competency Model Template.xlsx
+2025-09-17 23:20:18,341 - INFO - Trying LibreOffice for Competency Model Template.xlsx
+2025-09-17 23:20:18,344 - WARNING - LibreOffice not found, skipping: Competency Model Template.xlsx
+2025-09-17 23:20:18,344 - INFO - Trying Manual XLSX for Competency Model Template.xlsx
+2025-09-17 23:20:18,398 - INFO - ✓ Success with Manual XLSX: Competency Model Template.xlsx
+2025-09-17 23:20:18,399 - INFO - Processing 24/61: Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:20:18,399 - INFO - Trying LibreOffice for Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:20:18,402 - WARNING - LibreOffice not found, skipping: Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:20:18,402 - INFO - Trying Pandoc for Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:20:18,406 - WARNING - Pandoc not found, skipping: Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:20:18,406 - INFO - Trying Manual DOCX for Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:20:18,418 - INFO - ✓ Success with Manual DOCX: Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:20:18,418 - INFO - Processing 25/61: Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:20:18,419 - INFO - Trying LibreOffice for Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:20:18,422 - WARNING - LibreOffice not found, skipping: Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:20:18,422 - INFO - Trying Pandoc for Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:20:18,425 - WARNING - Pandoc not found, skipping: Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:20:18,425 - INFO - Trying Manual DOCX for Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:20:18,434 - INFO - ✓ Success with Manual DOCX: Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:20:18,434 - INFO - Processing 26/61: 505-Junk Org Chart.png
+2025-09-17 23:20:18,434 - INFO - Trying Manual PNG for 505-Junk Org Chart.png
+2025-09-17 23:20:18,484 - INFO - ✓ Success with Manual PNG: 505-Junk Org Chart.png
+2025-09-17 23:20:18,484 - INFO - Processing 27/61: Bolt - 1M Company Example.png
+2025-09-17 23:20:18,484 - INFO - Trying Manual PNG for Bolt - 1M Company Example.png
+2025-09-17 23:20:18,501 - INFO - ✓ Success with Manual PNG: Bolt - 1M Company Example.png
+2025-09-17 23:20:18,501 - INFO - Processing 28/61: Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:20:18,501 - INFO - Trying LibreOffice for Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:20:18,505 - WARNING - LibreOffice not found, skipping: Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:20:18,505 - INFO - Trying Pandoc for Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:20:18,508 - WARNING - Pandoc not found, skipping: Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:20:18,508 - INFO - Trying Manual DOCX for Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:20:18,525 - INFO - ✓ Success with Manual DOCX: Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:20:18,525 - INFO - Processing 29/61: SOP_ Expense Control.docx
+2025-09-17 23:20:18,525 - INFO - Trying LibreOffice for SOP_ Expense Control.docx
+2025-09-17 23:20:18,529 - WARNING - LibreOffice not found, skipping: SOP_ Expense Control.docx
+2025-09-17 23:20:18,529 - INFO - Trying Pandoc for SOP_ Expense Control.docx
+2025-09-17 23:20:18,532 - WARNING - Pandoc not found, skipping: SOP_ Expense Control.docx
+2025-09-17 23:20:18,532 - INFO - Trying Manual DOCX for SOP_ Expense Control.docx
+2025-09-17 23:20:18,547 - INFO - ✓ Success with Manual DOCX: SOP_ Expense Control.docx
+2025-09-17 23:20:18,547 - INFO - Processing 30/61: SOP_ Accounts Receivable .docx
+2025-09-17 23:20:18,547 - INFO - Trying LibreOffice for SOP_ Accounts Receivable .docx
+2025-09-17 23:20:18,554 - WARNING - LibreOffice not found, skipping: SOP_ Accounts Receivable .docx
+2025-09-17 23:20:18,554 - INFO - Trying Pandoc for SOP_ Accounts Receivable .docx
+2025-09-17 23:20:18,557 - WARNING - Pandoc not found, skipping: SOP_ Accounts Receivable .docx
+2025-09-17 23:20:18,558 - INFO - Trying Manual DOCX for SOP_ Accounts Receivable .docx
+2025-09-17 23:20:18,567 - INFO - ✓ Success with Manual DOCX: SOP_ Accounts Receivable .docx
+2025-09-17 23:20:18,567 - INFO - Processing 31/61: SOP_ First on Site.docx
+2025-09-17 23:20:18,567 - INFO - Trying LibreOffice for SOP_ First on Site.docx
+2025-09-17 23:20:18,571 - WARNING - LibreOffice not found, skipping: SOP_ First on Site.docx
+2025-09-17 23:20:18,571 - INFO - Trying Pandoc for SOP_ First on Site.docx
+2025-09-17 23:20:18,574 - WARNING - Pandoc not found, skipping: SOP_ First on Site.docx
+2025-09-17 23:20:18,574 - INFO - Trying Manual DOCX for SOP_ First on Site.docx
+2025-09-17 23:20:18,584 - INFO - ✓ Success with Manual DOCX: SOP_ First on Site.docx
+2025-09-17 23:20:18,584 - INFO - Processing 32/61: Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:20:18,584 - INFO - Trying LibreOffice for Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:20:18,587 - WARNING - LibreOffice not found, skipping: Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:20:18,587 - INFO - Trying Pandoc for Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:20:18,591 - WARNING - Pandoc not found, skipping: Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:20:18,591 - INFO - Trying Manual DOCX for Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:20:18,612 - INFO - ✓ Success with Manual DOCX: Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:20:18,612 - INFO - Processing 33/61: Maximizing Gross Profit.docx
+2025-09-17 23:20:18,613 - INFO - Trying LibreOffice for Maximizing Gross Profit.docx
+2025-09-17 23:20:18,616 - WARNING - LibreOffice not found, skipping: Maximizing Gross Profit.docx
+2025-09-17 23:20:18,616 - INFO - Trying Pandoc for Maximizing Gross Profit.docx
+2025-09-17 23:20:18,619 - WARNING - Pandoc not found, skipping: Maximizing Gross Profit.docx
+2025-09-17 23:20:18,619 - INFO - Trying Manual DOCX for Maximizing Gross Profit.docx
+2025-09-17 23:20:18,673 - INFO - ✓ Success with Manual DOCX: Maximizing Gross Profit.docx
+2025-09-17 23:20:18,673 - INFO - Processing 34/61: Template_ Operations Manual.docx
+2025-09-17 23:20:18,673 - INFO - Trying LibreOffice for Template_ Operations Manual.docx
+2025-09-17 23:20:18,677 - WARNING - LibreOffice not found, skipping: Template_ Operations Manual.docx
+2025-09-17 23:20:18,677 - INFO - Trying Pandoc for Template_ Operations Manual.docx
+2025-09-17 23:20:18,681 - WARNING - Pandoc not found, skipping: Template_ Operations Manual.docx
+2025-09-17 23:20:18,681 - INFO - Trying Manual DOCX for Template_ Operations Manual.docx
+2025-09-17 23:20:18,868 - INFO - ✓ Success with Manual DOCX: Template_ Operations Manual.docx
+2025-09-17 23:20:18,868 - INFO - Processing 35/61: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:18,868 - INFO - Trying LibreOffice for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:18,872 - WARNING - LibreOffice not found, skipping: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:18,872 - INFO - Trying Pandoc for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:18,874 - WARNING - Pandoc not found, skipping: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:18,874 - INFO - Trying Manual DOCX for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:18,899 - INFO - ✓ Success with Manual DOCX: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:20:18,899 - INFO - Processing 36/61: Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:20:18,900 - INFO - Trying LibreOffice for Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:20:18,903 - WARNING - LibreOffice not found, skipping: Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:20:18,903 - INFO - Trying Pandoc for Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:20:18,905 - WARNING - Pandoc not found, skipping: Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:20:18,905 - INFO - Trying Manual DOCX for Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:20:18,917 - INFO - ✓ Success with Manual DOCX: Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:20:18,917 - INFO - Processing 37/61: System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:20:18,917 - INFO - Trying LibreOffice for System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:20:18,921 - WARNING - LibreOffice not found, skipping: System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:20:18,921 - INFO - Trying Pandoc for System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:20:18,925 - WARNING - Pandoc not found, skipping: System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:20:18,925 - INFO - Trying Manual DOCX for System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:20:18,948 - INFO - ✓ Success with Manual DOCX: System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:20:18,948 - INFO - Processing 38/61: SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:20:18,948 - INFO - Trying LibreOffice for SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:20:18,951 - WARNING - LibreOffice not found, skipping: SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:20:18,951 - INFO - Trying Pandoc for SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:20:18,953 - WARNING - Pandoc not found, skipping: SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:20:18,954 - INFO - Trying Manual DOCX for SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:20:18,986 - INFO - ✓ Success with Manual DOCX: SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:20:18,986 - INFO - Processing 39/61: Operational Management in Junk Removal.docx
+2025-09-17 23:20:18,986 - INFO - Trying LibreOffice for Operational Management in Junk Removal.docx
+2025-09-17 23:20:18,989 - WARNING - LibreOffice not found, skipping: Operational Management in Junk Removal.docx
+2025-09-17 23:20:18,990 - INFO - Trying Pandoc for Operational Management in Junk Removal.docx
+2025-09-17 23:20:18,992 - WARNING - Pandoc not found, skipping: Operational Management in Junk Removal.docx
+2025-09-17 23:20:18,992 - INFO - Trying Manual DOCX for Operational Management in Junk Removal.docx
+2025-09-17 23:20:19,017 - INFO - ✓ Success with Manual DOCX: Operational Management in Junk Removal.docx
+2025-09-17 23:20:19,018 - INFO - Processing 40/61: Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:19,018 - INFO - Trying LibreOffice for Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:19,021 - WARNING - LibreOffice not found, skipping: Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:19,021 - INFO - Trying Pandoc for Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:19,024 - WARNING - Pandoc not found, skipping: Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:19,024 - INFO - Trying Manual DOCX for Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:19,065 - INFO - ✓ Success with Manual DOCX: Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:20:19,065 - INFO - Processing 41/61: Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:20:19,065 - INFO - Trying LibreOffice for Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:20:19,068 - WARNING - LibreOffice not found, skipping: Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:20:19,068 - INFO - Trying Pandoc for Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:20:19,071 - WARNING - Pandoc not found, skipping: Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:20:19,071 - INFO - Trying Manual DOCX for Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:20:19,114 - INFO - ✓ Success with Manual DOCX: Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:20:19,115 - INFO - Processing 42/61: Google Ads Audit Guide.docx
+2025-09-17 23:20:19,115 - INFO - Trying LibreOffice for Google Ads Audit Guide.docx
+2025-09-17 23:20:19,118 - WARNING - LibreOffice not found, skipping: Google Ads Audit Guide.docx
+2025-09-17 23:20:19,118 - INFO - Trying Pandoc for Google Ads Audit Guide.docx
+2025-09-17 23:20:19,121 - WARNING - Pandoc not found, skipping: Google Ads Audit Guide.docx
+2025-09-17 23:20:19,121 - INFO - Trying Manual DOCX for Google Ads Audit Guide.docx
+2025-09-17 23:20:19,135 - INFO - ✓ Success with Manual DOCX: Google Ads Audit Guide.docx
+2025-09-17 23:20:19,135 - INFO - Processing 43/61: GPROMI Test Calculator .xlsx
+2025-09-17 23:20:19,135 - INFO - Trying LibreOffice for GPROMI Test Calculator .xlsx
+2025-09-17 23:20:19,139 - WARNING - LibreOffice not found, skipping: GPROMI Test Calculator .xlsx
+2025-09-17 23:20:19,139 - INFO - Trying Manual XLSX for GPROMI Test Calculator .xlsx
+2025-09-17 23:20:19,153 - INFO - ✓ Success with Manual XLSX: GPROMI Test Calculator .xlsx
+2025-09-17 23:20:19,153 - INFO - Processing 44/61: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:19,153 - INFO - Trying LibreOffice for Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:19,156 - WARNING - LibreOffice not found, skipping: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:19,156 - INFO - Trying Pandoc for Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:19,159 - WARNING - Pandoc not found, skipping: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:19,159 - ERROR - ✗ All methods failed for: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:20:19,159 - INFO - Processing 45/61: Landing Page Guide.docx
+2025-09-17 23:20:19,159 - INFO - Trying LibreOffice for Landing Page Guide.docx
+2025-09-17 23:20:19,162 - WARNING - LibreOffice not found, skipping: Landing Page Guide.docx
+2025-09-17 23:20:19,162 - INFO - Trying Pandoc for Landing Page Guide.docx
+2025-09-17 23:20:19,165 - WARNING - Pandoc not found, skipping: Landing Page Guide.docx
+2025-09-17 23:20:19,165 - INFO - Trying Manual DOCX for Landing Page Guide.docx
+2025-09-17 23:20:19,177 - INFO - ✓ Success with Manual DOCX: Landing Page Guide.docx
+2025-09-17 23:20:19,177 - INFO - Processing 46/61: Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:20:19,177 - INFO - Trying LibreOffice for Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:20:19,180 - WARNING - LibreOffice not found, skipping: Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:20:19,180 - INFO - Trying Pandoc for Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:20:19,184 - WARNING - Pandoc not found, skipping: Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:20:19,184 - INFO - Trying Manual DOCX for Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:20:19,231 - INFO - ✓ Success with Manual DOCX: Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:20:19,231 - INFO - Processing 47/61: Email Marketing KPIs.xlsx
+2025-09-17 23:20:19,231 - INFO - Trying LibreOffice for Email Marketing KPIs.xlsx
+2025-09-17 23:20:19,235 - WARNING - LibreOffice not found, skipping: Email Marketing KPIs.xlsx
+2025-09-17 23:20:19,235 - INFO - Trying Manual XLSX for Email Marketing KPIs.xlsx
+2025-09-17 23:20:19,240 - INFO - ✓ Success with Manual XLSX: Email Marketing KPIs.xlsx
+2025-09-17 23:20:19,240 - INFO - Processing 48/61: Email Marketing.docx
+2025-09-17 23:20:19,240 - INFO - Trying LibreOffice for Email Marketing.docx
+2025-09-17 23:20:19,243 - WARNING - LibreOffice not found, skipping: Email Marketing.docx
+2025-09-17 23:20:19,243 - INFO - Trying Pandoc for Email Marketing.docx
+2025-09-17 23:20:19,247 - WARNING - Pandoc not found, skipping: Email Marketing.docx
+2025-09-17 23:20:19,247 - INFO - Trying Manual DOCX for Email Marketing.docx
+2025-09-17 23:20:19,299 - INFO - ✓ Success with Manual DOCX: Email Marketing.docx
+2025-09-17 23:20:19,299 - INFO - Processing 49/61: Google KPI_s - Template.xlsx
+2025-09-17 23:20:19,299 - INFO - Trying LibreOffice for Google KPI_s - Template.xlsx
+2025-09-17 23:20:19,303 - WARNING - LibreOffice not found, skipping: Google KPI_s - Template.xlsx
+2025-09-17 23:20:19,303 - INFO - Trying Manual XLSX for Google KPI_s - Template.xlsx
+2025-09-17 23:20:19,445 - INFO - ✓ Success with Manual XLSX: Google KPI_s - Template.xlsx
+2025-09-17 23:20:19,445 - INFO - Processing 50/61: Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:20:19,446 - INFO - Trying LibreOffice for Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:20:19,450 - WARNING - LibreOffice not found, skipping: Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:20:19,450 - INFO - Trying Pandoc for Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:20:19,453 - WARNING - Pandoc not found, skipping: Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:20:19,453 - INFO - Trying Manual DOCX for Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:20:19,483 - INFO - ✓ Success with Manual DOCX: Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:20:19,483 - INFO - Processing 51/61: Time Management Audit.xlsx
+2025-09-17 23:20:19,483 - INFO - Trying LibreOffice for Time Management Audit.xlsx
+2025-09-17 23:20:19,486 - WARNING - LibreOffice not found, skipping: Time Management Audit.xlsx
+2025-09-17 23:20:19,486 - INFO - Trying Manual XLSX for Time Management Audit.xlsx
+2025-09-17 23:20:19,507 - INFO - ✓ Success with Manual XLSX: Time Management Audit.xlsx
+2025-09-17 23:20:19,507 - INFO - Processing 52/61: Vivid Vision Template.docx
+2025-09-17 23:20:19,507 - INFO - Trying LibreOffice for Vivid Vision Template.docx
+2025-09-17 23:20:19,511 - WARNING - LibreOffice not found, skipping: Vivid Vision Template.docx
+2025-09-17 23:20:19,511 - INFO - Trying Pandoc for Vivid Vision Template.docx
+2025-09-17 23:20:19,513 - WARNING - Pandoc not found, skipping: Vivid Vision Template.docx
+2025-09-17 23:20:19,513 - INFO - Trying Manual DOCX for Vivid Vision Template.docx
+2025-09-17 23:20:19,523 - INFO - ✓ Success with Manual DOCX: Vivid Vision Template.docx
+2025-09-17 23:20:19,523 - INFO - Processing 53/61: Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:20:19,523 - INFO - Trying LibreOffice for Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:20:19,527 - WARNING - LibreOffice not found, skipping: Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:20:19,527 - INFO - Trying Pandoc for Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:20:19,530 - WARNING - Pandoc not found, skipping: Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:20:19,531 - INFO - Trying Manual DOCX for Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:20:19,560 - INFO - ✓ Success with Manual DOCX: Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:20:19,560 - INFO - Processing 54/61: Acceleration Audit Template.docx
+2025-09-17 23:20:19,560 - INFO - Trying LibreOffice for Acceleration Audit Template.docx
+2025-09-17 23:20:19,563 - WARNING - LibreOffice not found, skipping: Acceleration Audit Template.docx
+2025-09-17 23:20:19,564 - INFO - Trying Pandoc for Acceleration Audit Template.docx
+2025-09-17 23:20:19,566 - WARNING - Pandoc not found, skipping: Acceleration Audit Template.docx
+2025-09-17 23:20:19,566 - INFO - Trying Manual DOCX for Acceleration Audit Template.docx
+2025-09-17 23:20:19,584 - INFO - ✓ Success with Manual DOCX: Acceleration Audit Template.docx
+2025-09-17 23:20:19,584 - INFO - Processing 55/61: 2025 Strategic Plan Template.xlsx
+2025-09-17 23:20:19,584 - INFO - Trying LibreOffice for 2025 Strategic Plan Template.xlsx
+2025-09-17 23:20:19,587 - WARNING - LibreOffice not found, skipping: 2025 Strategic Plan Template.xlsx
+2025-09-17 23:20:19,587 - INFO - Trying Manual XLSX for 2025 Strategic Plan Template.xlsx
+2025-09-17 23:20:19,798 - INFO - ✓ Success with Manual XLSX: 2025 Strategic Plan Template.xlsx
+2025-09-17 23:20:19,798 - INFO - Processing 56/61: TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:20:19,798 - INFO - Trying LibreOffice for TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:20:19,801 - WARNING - LibreOffice not found, skipping: TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:20:19,802 - INFO - Trying Manual XLSX for TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:20:19,957 - INFO - ✓ Success with Manual XLSX: TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:20:19,957 - INFO - Processing 57/61: SOP_ Time Management.docx
+2025-09-17 23:20:19,957 - INFO - Trying LibreOffice for SOP_ Time Management.docx
+2025-09-17 23:20:19,961 - WARNING - LibreOffice not found, skipping: SOP_ Time Management.docx
+2025-09-17 23:20:19,962 - INFO - Trying Pandoc for SOP_ Time Management.docx
+2025-09-17 23:20:19,964 - WARNING - Pandoc not found, skipping: SOP_ Time Management.docx
+2025-09-17 23:20:19,964 - INFO - Trying Manual DOCX for SOP_ Time Management.docx
+2025-09-17 23:20:19,974 - INFO - ✓ Success with Manual DOCX: SOP_ Time Management.docx
+2025-09-17 23:20:19,974 - INFO - Processing 58/61: Meeting Rhythms & GSRs.docx
+2025-09-17 23:20:19,974 - INFO - Trying LibreOffice for Meeting Rhythms & GSRs.docx
+2025-09-17 23:20:19,978 - WARNING - LibreOffice not found, skipping: Meeting Rhythms & GSRs.docx
+2025-09-17 23:20:19,978 - INFO - Trying Pandoc for Meeting Rhythms & GSRs.docx
+2025-09-17 23:20:19,982 - WARNING - Pandoc not found, skipping: Meeting Rhythms & GSRs.docx
+2025-09-17 23:20:19,982 - INFO - Trying Manual DOCX for Meeting Rhythms & GSRs.docx
+2025-09-17 23:20:20,027 - INFO - ✓ Success with Manual DOCX: Meeting Rhythms & GSRs.docx
+2025-09-17 23:20:20,027 - INFO - Processing 59/61: EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:20:20,027 - INFO - Trying LibreOffice for EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:20:20,030 - WARNING - LibreOffice not found, skipping: EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:20:20,030 - INFO - Trying Pandoc for EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:20:20,033 - WARNING - Pandoc not found, skipping: EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:20:20,033 - INFO - Trying Manual DOCX for EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:20:20,075 - INFO - ✓ Success with Manual DOCX: EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:20:20,075 - INFO - Processing 60/61: Breaking Through Limiting Beliefs.docx
+2025-09-17 23:20:20,075 - INFO - Trying LibreOffice for Breaking Through Limiting Beliefs.docx
+2025-09-17 23:20:20,078 - WARNING - LibreOffice not found, skipping: Breaking Through Limiting Beliefs.docx
+2025-09-17 23:20:20,078 - INFO - Trying Pandoc for Breaking Through Limiting Beliefs.docx
+2025-09-17 23:20:20,081 - WARNING - Pandoc not found, skipping: Breaking Through Limiting Beliefs.docx
+2025-09-17 23:20:20,081 - INFO - Trying Manual DOCX for Breaking Through Limiting Beliefs.docx
+2025-09-17 23:20:20,108 - INFO - ✓ Success with Manual DOCX: Breaking Through Limiting Beliefs.docx
+2025-09-17 23:20:20,108 - INFO - Processing 61/61: Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:20:20,108 - INFO - Trying LibreOffice for Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:20:20,111 - WARNING - LibreOffice not found, skipping: Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:20:20,112 - INFO - Trying Pandoc for Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:20:20,114 - WARNING - Pandoc not found, skipping: Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:20:20,114 - INFO - Trying Manual DOCX for Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:20:20,157 - INFO - ✓ Success with Manual DOCX: Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:20:20,157 - INFO - 
+Force conversion completed!
+2025-09-17 23:20:20,157 - INFO - Converted: 60
+2025-09-17 23:20:20,157 - INFO - Failed: 1
+2025-09-17 23:20:20,157 - INFO - Total processed: 61
+2025-09-17 23:22:32,025 - INFO - Starting force conversion...
+2025-09-17 23:22:32,026 - INFO - Mavjud PDF fayllarni ko'chirish...
+2025-09-17 23:22:32,297 - INFO - ✓ Installed python-docx
+2025-09-17 23:22:32,467 - INFO - ✓ Installed openpyxl
+2025-09-17 23:22:32,642 - INFO - ✓ Installed reportlab
+2025-09-17 23:22:32,805 - INFO - ✓ Installed Pillow
+2025-09-17 23:22:32,806 - INFO - Found 1 files to convert
+2025-09-17 23:22:32,806 - INFO - Processing 1/1: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:22:32,806 - INFO - Trying LibreOffice for Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:22:45,956 - INFO - ✓ Success with LibreOffice: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:22:45,956 - INFO - 
+Force conversion completed!
+2025-09-17 23:22:45,956 - INFO - Converted: 1
+2025-09-17 23:22:45,956 - INFO - Failed: 0
+2025-09-17 23:22:45,956 - INFO - Total processed: 1
+2025-09-17 23:22:54,738 - INFO - Starting force conversion...
+2025-09-17 23:22:54,738 - INFO - Mavjud PDF fayllarni ko'chirish...
+2025-09-17 23:22:54,743 - INFO - ✓ PDF ko'chirildi: Memo_ How to Succeed at 505-Junk.pdf
+2025-09-17 23:22:54,774 - INFO - ✓ PDF ko'chirildi: JunkStart 505-Junk Brand Strategy.pdf
+2025-09-17 23:22:54,776 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Revenue (Actuals).pdf
+2025-09-17 23:22:54,777 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Budget.pdf
+2025-09-17 23:22:54,778 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Revenue Plan Difference.pdf
+2025-09-17 23:22:54,779 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Truck Team KPIs.pdf
+2025-09-17 23:22:54,781 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Strategic Plan.pdf
+2025-09-17 23:22:54,782 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - Revenue (Budget).pdf
+2025-09-17 23:22:54,783 - INFO - ✓ PDF ko'chirildi: TEMPLATE_ 2024 Strategic Plan.xlsx - DPL.pdf
+2025-09-17 23:22:54,785 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - GSR.pdf
+2025-09-17 23:22:54,786 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Truck Team KPIs.pdf
+2025-09-17 23:22:54,787 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Revenue Difference.pdf
+2025-09-17 23:22:54,788 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - DPL.pdf
+2025-09-17 23:22:54,790 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Budget (Con).pdf
+2025-09-17 23:22:54,791 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Budget (Trending).pdf
+2025-09-17 23:22:54,793 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Revenue (Budget).pdf
+2025-09-17 23:22:54,794 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Strategic Plan.pdf
+2025-09-17 23:22:54,795 - INFO - ✓ PDF ko'chirildi: 2025 Strategic Plan Template.xlsx - Revenue (Trending).pdf
+2025-09-17 23:22:54,795 - INFO - ✓ 18 ta PDF fayl ko'chirildi
+2025-09-17 23:22:55,142 - INFO - ✓ Installed python-docx
+2025-09-17 23:22:55,308 - INFO - ✓ Installed openpyxl
+2025-09-17 23:22:55,488 - INFO - ✓ Installed reportlab
+2025-09-17 23:22:55,656 - INFO - ✓ Installed Pillow
+2025-09-17 23:22:55,657 - INFO - Found 61 files to convert
+2025-09-17 23:22:55,657 - INFO - Processing 1/61: Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:22:55,657 - INFO - Trying LibreOffice for Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:22:59,147 - INFO - ✓ Success with LibreOffice: Bolt Resource_ 505-Junk Culture Training.docx
+2025-09-17 23:22:59,147 - INFO - Processing 2/61: Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:22:59,147 - INFO - Trying LibreOffice for Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:23:02,039 - INFO - ✓ Success with LibreOffice: Bolt Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:23:02,039 - INFO - Processing 3/61: Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:23:02,039 - INFO - Trying LibreOffice for Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:23:05,304 - INFO - ✓ Success with LibreOffice: Copy of Policy_ Culture at 505-Junk.docx
+2025-09-17 23:23:05,305 - INFO - Processing 4/61: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:23:05,305 - INFO - Trying LibreOffice for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:23:08,446 - INFO - ✓ Success with LibreOffice: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:23:08,446 - INFO - Processing 5/61: Template_ Development Plan Questionnaire.docx
+2025-09-17 23:23:08,446 - INFO - Trying LibreOffice for Template_ Development Plan Questionnaire.docx
+2025-09-17 23:23:11,275 - INFO - ✓ Success with LibreOffice: Template_ Development Plan Questionnaire.docx
+2025-09-17 23:23:11,275 - INFO - Processing 6/61: Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:23:11,275 - INFO - Trying LibreOffice for Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:23:14,321 - INFO - ✓ Success with LibreOffice: Employee Development Plan - Prep Work Template.docx
+2025-09-17 23:23:14,322 - INFO - Processing 7/61: Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:23:14,322 - INFO - Trying LibreOffice for Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:23:17,457 - INFO - ✓ Success with LibreOffice: Template_ 2024 Employee Development Plan.docx
+2025-09-17 23:23:17,457 - INFO - Processing 8/61: Employee Warning Notice - Template (General).docx
+2025-09-17 23:23:17,457 - INFO - Trying LibreOffice for Employee Warning Notice - Template (General).docx
+2025-09-17 23:23:20,522 - INFO - ✓ Success with LibreOffice: Employee Warning Notice - Template (General).docx
+2025-09-17 23:23:20,522 - INFO - Processing 9/61: Employee Write-up - Template (General).docx
+2025-09-17 23:23:20,522 - INFO - Trying LibreOffice for Employee Write-up - Template (General).docx
+2025-09-17 23:23:23,554 - INFO - ✓ Success with LibreOffice: Employee Write-up - Template (General).docx
+2025-09-17 23:23:23,555 - INFO - Processing 10/61: Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:23:23,555 - INFO - Trying LibreOffice for Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:23:26,828 - INFO - ✓ Success with LibreOffice: Bolt Resource_ Compliance Handbook.docx
+2025-09-17 23:23:26,828 - INFO - Processing 11/61: Bolt Performance Improvement Plan.docx
+2025-09-17 23:23:26,828 - INFO - Trying LibreOffice for Bolt Performance Improvement Plan.docx
+2025-09-17 23:23:29,970 - INFO - ✓ Success with LibreOffice: Bolt Performance Improvement Plan.docx
+2025-09-17 23:23:29,971 - INFO - Processing 12/61: Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:23:29,971 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:23:33,215 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Coordinator, Sales.docx
+2025-09-17 23:23:33,215 - INFO - Processing 13/61: Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:23:33,215 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:23:36,382 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Lead, Sales Coordinator.docx
+2025-09-17 23:23:36,382 - INFO - Processing 14/61: Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:23:36,382 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:23:39,487 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Senior Manager, Marketing.docx
+2025-09-17 23:23:39,487 - INFO - Processing 15/61: Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:23:39,487 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:23:42,628 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Manager, Production.docx
+2025-09-17 23:23:42,628 - INFO - Processing 16/61: Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:23:42,628 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:23:45,730 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Lead, Waste Technician.docx
+2025-09-17 23:23:45,730 - INFO - Processing 17/61: Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:23:45,730 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:23:48,821 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Coordinator, Production.docx
+2025-09-17 23:23:48,821 - INFO - Processing 18/61: Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:23:48,821 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:23:51,938 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Representative, Business Development.docx
+2025-09-17 23:23:51,938 - INFO - Processing 19/61: Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:23:51,938 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:23:55,079 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Director, Operations.docx
+2025-09-17 23:23:55,079 - INFO - Processing 20/61: Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:23:55,079 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:23:58,224 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Coordinator, Marketing.docx
+2025-09-17 23:23:58,224 - INFO - Processing 21/61: Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:23:58,224 - INFO - Trying LibreOffice for Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:24:01,415 - INFO - ✓ Success with LibreOffice: Template_ Job Description (2024) - Waste Technician.docx
+2025-09-17 23:24:01,415 - INFO - Processing 22/61: Competency Model - Truck Team.docx
+2025-09-17 23:24:01,415 - INFO - Trying LibreOffice for Competency Model - Truck Team.docx
+2025-09-17 23:24:04,605 - INFO - ✓ Success with LibreOffice: Competency Model - Truck Team.docx
+2025-09-17 23:24:04,606 - INFO - Processing 23/61: Competency Model Template.xlsx
+2025-09-17 23:24:04,606 - INFO - Trying LibreOffice for Competency Model Template.xlsx
+2025-09-17 23:24:05,711 - INFO - ✓ Success with LibreOffice: Competency Model Template.xlsx
+2025-09-17 23:24:05,711 - INFO - Processing 24/61: Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:24:05,711 - INFO - Trying LibreOffice for Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:24:08,547 - INFO - ✓ Success with LibreOffice: Template_ Interview Form -Waste Technician.docx
+2025-09-17 23:24:08,547 - INFO - Processing 25/61: Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:24:08,547 - INFO - Trying LibreOffice for Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:24:11,394 - INFO - ✓ Success with LibreOffice: Template_ Conversion Call Form - Waste Technician.docx
+2025-09-17 23:24:11,394 - INFO - Processing 26/61: 505-Junk Org Chart.png
+2025-09-17 23:24:11,394 - INFO - Trying Manual PNG for 505-Junk Org Chart.png
+2025-09-17 23:24:11,511 - INFO - ✓ Success with Manual PNG: 505-Junk Org Chart.png
+2025-09-17 23:24:11,511 - INFO - Processing 27/61: Bolt - 1M Company Example.png
+2025-09-17 23:24:11,511 - INFO - Trying Manual PNG for Bolt - 1M Company Example.png
+2025-09-17 23:24:11,529 - INFO - ✓ Success with Manual PNG: Bolt - 1M Company Example.png
+2025-09-17 23:24:11,529 - INFO - Processing 28/61: Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:24:11,529 - INFO - Trying LibreOffice for Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:24:14,385 - INFO - ✓ Success with LibreOffice: Bolt SOP_ Employee Onboarding .docx
+2025-09-17 23:24:14,385 - INFO - Processing 29/61: SOP_ Expense Control.docx
+2025-09-17 23:24:14,385 - INFO - Trying LibreOffice for SOP_ Expense Control.docx
+2025-09-17 23:24:17,221 - INFO - ✓ Success with LibreOffice: SOP_ Expense Control.docx
+2025-09-17 23:24:17,221 - INFO - Processing 30/61: SOP_ Accounts Receivable .docx
+2025-09-17 23:24:17,221 - INFO - Trying LibreOffice for SOP_ Accounts Receivable .docx
+2025-09-17 23:24:18,052 - INFO - ✓ Success with LibreOffice: SOP_ Accounts Receivable .docx
+2025-09-17 23:24:18,052 - INFO - Processing 31/61: SOP_ First on Site.docx
+2025-09-17 23:24:18,052 - INFO - Trying LibreOffice for SOP_ First on Site.docx
+2025-09-17 23:24:20,888 - INFO - ✓ Success with LibreOffice: SOP_ First on Site.docx
+2025-09-17 23:24:20,888 - INFO - Processing 32/61: Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:24:20,888 - INFO - Trying LibreOffice for Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:24:23,767 - INFO - ✓ Success with LibreOffice: Guide on SOPs for Business Efficiency.docx
+2025-09-17 23:24:23,768 - INFO - Processing 33/61: Maximizing Gross Profit.docx
+2025-09-17 23:24:23,768 - INFO - Trying LibreOffice for Maximizing Gross Profit.docx
+2025-09-17 23:24:26,622 - INFO - ✓ Success with LibreOffice: Maximizing Gross Profit.docx
+2025-09-17 23:24:26,622 - INFO - Processing 34/61: Template_ Operations Manual.docx
+2025-09-17 23:24:26,622 - INFO - Trying LibreOffice for Template_ Operations Manual.docx
+2025-09-17 23:24:30,298 - INFO - ✓ Success with LibreOffice: Template_ Operations Manual.docx
+2025-09-17 23:24:30,298 - INFO - Processing 35/61: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:24:30,298 - INFO - Trying LibreOffice for DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:24:33,458 - INFO - ✓ Success with LibreOffice: DORAGI_ Training Framework for Junk Removal.docx
+2025-09-17 23:24:33,459 - INFO - Processing 36/61: Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:24:33,459 - INFO - Trying LibreOffice for Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:24:36,533 - INFO - ✓ Success with LibreOffice: Bolt Template_ Valuable Item Log.docx
+2025-09-17 23:24:36,534 - INFO - Processing 37/61: System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:24:36,534 - INFO - Trying LibreOffice for System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:24:37,674 - INFO - ✓ Success with LibreOffice: System_ Fleet Maintenance Schedule.docx
+2025-09-17 23:24:37,675 - INFO - Processing 38/61: SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:24:37,675 - INFO - Trying LibreOffice for SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:24:40,781 - INFO - ✓ Success with LibreOffice: SOP_ On Site Estimation Excellence 2025.docx
+2025-09-17 23:24:40,781 - INFO - Processing 39/61: Operational Management in Junk Removal.docx
+2025-09-17 23:24:40,781 - INFO - Trying LibreOffice for Operational Management in Junk Removal.docx
+2025-09-17 23:24:43,912 - INFO - ✓ Success with LibreOffice: Operational Management in Junk Removal.docx
+2025-09-17 23:24:43,912 - INFO - Processing 40/61: Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:24:43,912 - INFO - Trying LibreOffice for Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:24:46,831 - INFO - ✓ Success with LibreOffice: Template_ Manual_ Truck Team Training Program.docx
+2025-09-17 23:24:46,831 - INFO - Processing 41/61: Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:24:46,831 - INFO - Trying LibreOffice for Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:24:50,291 - INFO - ✓ Success with LibreOffice: Brand Storytelling & Showcasing Guide.docx
+2025-09-17 23:24:50,291 - INFO - Processing 42/61: Google Ads Audit Guide.docx
+2025-09-17 23:24:50,291 - INFO - Trying LibreOffice for Google Ads Audit Guide.docx
+2025-09-17 23:24:53,154 - INFO - ✓ Success with LibreOffice: Google Ads Audit Guide.docx
+2025-09-17 23:24:53,154 - INFO - Processing 43/61: GPROMI Test Calculator .xlsx
+2025-09-17 23:24:53,154 - INFO - Trying LibreOffice for GPROMI Test Calculator .xlsx
+2025-09-17 23:24:53,961 - INFO - ✓ Success with LibreOffice: GPROMI Test Calculator .xlsx
+2025-09-17 23:24:53,961 - INFO - Processing 44/61: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:24:53,961 - INFO - Trying LibreOffice for Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:24:58,514 - INFO - ✓ Success with LibreOffice: Local SEO for Junk Removal (4_7_2025).pptx
+2025-09-17 23:24:58,515 - INFO - Processing 45/61: Landing Page Guide.docx
+2025-09-17 23:24:58,515 - INFO - Trying LibreOffice for Landing Page Guide.docx
+2025-09-17 23:25:01,303 - INFO - ✓ Success with LibreOffice: Landing Page Guide.docx
+2025-09-17 23:25:01,303 - INFO - Processing 46/61: Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:25:01,303 - INFO - Trying LibreOffice for Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:25:04,420 - INFO - ✓ Success with LibreOffice: Bolt Template_ Brand Strategy Plan.docx
+2025-09-17 23:25:04,420 - INFO - Processing 47/61: Email Marketing KPIs.xlsx
+2025-09-17 23:25:04,420 - INFO - Trying LibreOffice for Email Marketing KPIs.xlsx
+2025-09-17 23:25:05,249 - INFO - ✓ Success with LibreOffice: Email Marketing KPIs.xlsx
+2025-09-17 23:25:05,249 - INFO - Processing 48/61: Email Marketing.docx
+2025-09-17 23:25:05,249 - INFO - Trying LibreOffice for Email Marketing.docx
+2025-09-17 23:25:09,130 - INFO - ✓ Success with LibreOffice: Email Marketing.docx
+2025-09-17 23:25:09,130 - INFO - Processing 49/61: Google KPI_s - Template.xlsx
+2025-09-17 23:25:09,130 - INFO - Trying LibreOffice for Google KPI_s - Template.xlsx
+2025-09-17 23:25:11,929 - INFO - ✓ Success with LibreOffice: Google KPI_s - Template.xlsx
+2025-09-17 23:25:11,929 - INFO - Processing 50/61: Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:25:11,929 - INFO - Trying LibreOffice for Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:25:14,819 - INFO - ✓ Success with LibreOffice: Q3 Strategy Planning _ Mid-Year Review Guide.docx
+2025-09-17 23:25:14,819 - INFO - Processing 51/61: Time Management Audit.xlsx
+2025-09-17 23:25:14,819 - INFO - Trying LibreOffice for Time Management Audit.xlsx
+2025-09-17 23:25:15,610 - INFO - ✓ Success with LibreOffice: Time Management Audit.xlsx
+2025-09-17 23:25:15,610 - INFO - Processing 52/61: Vivid Vision Template.docx
+2025-09-17 23:25:15,610 - INFO - Trying LibreOffice for Vivid Vision Template.docx
+2025-09-17 23:25:16,434 - INFO - ✓ Success with LibreOffice: Vivid Vision Template.docx
+2025-09-17 23:25:16,434 - INFO - Processing 53/61: Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:25:16,434 - INFO - Trying LibreOffice for Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:25:19,269 - INFO - ✓ Success with LibreOffice: Bolt_ Strategic Planning Guide.docx
+2025-09-17 23:25:19,270 - INFO - Processing 54/61: Acceleration Audit Template.docx
+2025-09-17 23:25:19,270 - INFO - Trying LibreOffice for Acceleration Audit Template.docx
+2025-09-17 23:25:20,072 - INFO - ✓ Success with LibreOffice: Acceleration Audit Template.docx
+2025-09-17 23:25:20,072 - INFO - Processing 55/61: 2025 Strategic Plan Template.xlsx
+2025-09-17 23:25:20,072 - INFO - Trying LibreOffice for 2025 Strategic Plan Template.xlsx
+2025-09-17 23:25:23,341 - INFO - ✓ Success with LibreOffice: 2025 Strategic Plan Template.xlsx
+2025-09-17 23:25:23,342 - INFO - Processing 56/61: TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:25:23,342 - INFO - Trying LibreOffice for TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:25:26,499 - INFO - ✓ Success with LibreOffice: TEMPLATE_ 2024 Strategic Plan.xlsx
+2025-09-17 23:25:26,499 - INFO - Processing 57/61: SOP_ Time Management.docx
+2025-09-17 23:25:26,499 - INFO - Trying LibreOffice for SOP_ Time Management.docx
+2025-09-17 23:25:29,646 - INFO - ✓ Success with LibreOffice: SOP_ Time Management.docx
+2025-09-17 23:25:29,646 - INFO - Processing 58/61: Meeting Rhythms & GSRs.docx
+2025-09-17 23:25:29,646 - INFO - Trying LibreOffice for Meeting Rhythms & GSRs.docx
+2025-09-17 23:25:32,629 - INFO - ✓ Success with LibreOffice: Meeting Rhythms & GSRs.docx
+2025-09-17 23:25:32,630 - INFO - Processing 59/61: EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:25:32,630 - INFO - Trying LibreOffice for EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:25:35,867 - INFO - ✓ Success with LibreOffice: EQ_ The Value of Emotional Intelligence and Management in Junk Removal (1).docx
+2025-09-17 23:25:35,868 - INFO - Processing 60/61: Breaking Through Limiting Beliefs.docx
+2025-09-17 23:25:35,868 - INFO - Trying LibreOffice for Breaking Through Limiting Beliefs.docx
+2025-09-17 23:25:39,102 - INFO - ✓ Success with LibreOffice: Breaking Through Limiting Beliefs.docx
+2025-09-17 23:25:39,103 - INFO - Processing 61/61: Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:25:39,103 - INFO - Trying LibreOffice for Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:25:42,149 - INFO - ✓ Success with LibreOffice: Essential Leadership Traits for Junk Removal Entrepreneurs.docx
+2025-09-17 23:25:42,149 - INFO - 
+Force conversion completed!
+2025-09-17 23:25:42,149 - INFO - Converted: 61
+2025-09-17 23:25:42,149 - INFO - Failed: 0
+2025-09-17 23:25:42,149 - INFO - Total processed: 61

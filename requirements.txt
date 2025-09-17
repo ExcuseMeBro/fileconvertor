@@ -1,0 +1,8 @@
+docx2pdf
+python-docx
+openpyxl
+python-pptx
+Pillow
+reportlab
+xlsxwriter
+pypandoc
